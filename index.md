@@ -1,123 +1,22 @@
 ---
 layout: default
 ---
+I currently lead the [Gibson Lab](https://gibsonlab.io) where we leverage tools from machine learning and control theory to advance our understanding of biological systems. My expertise in control theory and dynamical systems stems from my PhD work in adaptive control where my thesis focussed on ways to improve the transient performance of learning based control algorithms (ensuring smooth dynamics while learning). During graduate school I also spent summers at NASA and Boeing, and my thesis work currently flies on several non-commercial Boeing platforms. After graduate school I switched my research focus toward biomedical applications and completed two research fellowships. Those fellowships were focussed on the microbiome where I used germ-free mouse models in conjunction with Bayesian machine learning approaches to learn interpretable models of complex microbial dynamics. It is with that background that I then started my group at Brigham and Women's Hospital and Harvard Medical School. While specific research questions may evolve over time, a key hallmark of our work is the careful co-design of computational and experimental models. Biological systems are simply too complex to be probed through either paradigm alone.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Links and contact information
 
-[Link to another page](./another-page.html).
+- [tegibson@bwh.harvard.edu](mailto:tegibson@bwh.harvard.edu)
+- [Google Scholar](https://scholar.google.com/citations?user=epg4RggAAAAJ&hl=en)
+- [Gibson Lab](https://gibsonlab.io)
 
-There should be whitespace between paragraphs.
+## Positions
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- Assistant Professor, Harvard Medical School
+- Principal Investigator, Brigham and Women's Hospital
+- Associate Member, Broad Institute of MIT and Harvard
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Education
+- PhD, Massachusetts Institute of Technology
+- SM, Massachusetts Institute of Technology
+- BS, Georgia Institute of Technology
